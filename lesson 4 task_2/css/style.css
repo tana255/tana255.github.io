@@ -1,0 +1,26 @@
+h1{
+  width: 900px;        /*Ширина блоку*/            
+  margin: 10px auto;     /*Відступи зверху і автоматично*/
+  border: 1px solid red;  /*Товщина і колір рамки*/
+  text-align: center;   /*Розташування літер*/
+  font-size: 40px;   /*Розмір літер*/
+  line-height: 60px;     /*Висота блоку*/
+  text-transform: uppercase; /*Великі літери*/
+  position: relative;
+}
+
+h1:before, h1:after{     /*для заголовків до і після*/
+  content: '';            /*Порожній текст*/
+  position: absolute;       /*щоб позиціонувати елементи до і після як дочірні - absolute, батьківські relative  */
+  top: 50%;                 /*Відступ зверху*/
+  margin-top: 2px;
+  left: 0;               
+  height: 4px;        /*Висота лінії*/
+  width: 320px;        /*Ширина лінії*/
+  background-color: #000;  /*Колір лінії*/
+}
+
+h1:after{
+  right: 0;
+  left: auto;
+}

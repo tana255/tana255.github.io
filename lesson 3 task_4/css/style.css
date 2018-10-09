@@ -1,0 +1,10 @@
+.child {
+	height: 100pt;
+	background: red;
+}
+.parent{
+	height: auto;
+	background: white; 
+	box-shadow: 0 0 10px;
+	padding: 10px;
+}

@@ -1,0 +1,21 @@
+nav ul{
+	background-color: #006400; {--!темно-зелений!--}
+	list-style: none;
+	padding: 0;
+	width: 200px;
+	border: 1px solid #98FB98; {--!світло-зелений!--}
+}
+nav ul li{
+	border-bottom: 1px solid #98FB98;
+	padding: 5px;
+}
+nav ul li: last-child {
+	border-bottom: 0;
+}
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+nav ul li a: hover {
+	text-decoration: underline;
+}
