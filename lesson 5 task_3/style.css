@@ -1,0 +1,34 @@
+div{
+	border: 2px solid black;
+	margin: 10px;
+	font-size:24px; 
+}
+.fullwrap{
+	width: 100%;
+	height: 800px;
+	}
+.header{
+	width: auto;
+	height:18%;
+	}
+.wrap{
+	width: auto;
+	height:50%;
+	}
+.main{
+	display: inline-block;
+	width: 65%;
+	height:96%;
+	box-sizing: border-box;
+}
+.sidebar{
+	display: inline-block;
+	width: 28%;
+	height:96%;
+	box-sizing: border-box;
+}
+.footer{
+	width: auto;
+	height:26%;
+	box-sizing: border-box;
+}
