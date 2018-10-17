@@ -1,0 +1,61 @@
+.kalk{
+	width: 300px;
+	height: 500px;
+	padding: 10px;
+	margin: 5px;
+	display: inline-block;
+	border: 2px solid #008B8B;
+	border-radius: 10px; 
+}
+.name{
+	width: 300px;
+	height: 30px;
+	padding: 5px  1px;
+	display: inline-block;
+	background-color:#008B8B;
+	text-align: right;
+	color:white;
+}
+.pole{
+	width: 278px;
+	height: 25px;
+	padding: 10px  10px;
+	margin: 5px 1px;
+	display: inline-block;
+	background-color:white;
+	text-align: right;
+	color:#008B8B;
+	border: 2px solid #008B8B;
+	}
+.zar{
+	width: 138px;
+	height: 30px;
+	padding: 5px  5px 5px 40px;
+	margin: 5px  5px 5px 120px;
+	display: inline-block;
+	background-color:#008B8B;
+}
+.knopka{
+	width: 25px;
+	height: 25px;
+	padding: 10px;
+	margin: 10px;
+	display: inline-block;
+	border: 2px solid #008B8B;
+	border-radius: 5px; 
+}
+a{
+	text-decoration: none;
+	font-size: 16px;
+}
+a:hover{
+	background: #A9A9A9;
+	font-size: 16px;
+	font-style: bold;
+	color: #008B8B;
+}
+a:active{
+	background:	#5F9EA0;
+	padding: 12px;
+	color: #FFEBCD;
+}
