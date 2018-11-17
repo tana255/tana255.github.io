@@ -24,22 +24,6 @@
 	 text-align:center; 
 	 color:white;
 }
-.scroll_down {
-  position: absolute;
-  margin-left: auto;
-  margin-right: auto;
-  left: 0;
-  right: 0;
-  height: 50px;
-  width: 30px;
-  bottom: 60px;
-  background-color: transparent;
-  border: 2px solid white;
-  border-radius: 20px;
-  cursor: pointer;
-  outline: none;
-}
-
 
 .scroll_down:before {
   position: absolute;
