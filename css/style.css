@@ -47,7 +47,7 @@ button.scroll_down:before {
   width: 6px;
   height: 6px;
   margin-left: -3px;
-  background-color: #fff;
+  background-color: #FAEBD7;
   border-radius: 100%;
   -webkit-animation: scroll_down_btn-animation 2s infinite;
   animation: scroll_down_btn-animation 2s infinite;
