@@ -28,6 +28,7 @@ button.scroll_down {
   position: absolute;
   margin-left: auto;
   margin-right: auto;
+	top:60px;
   left: 0;
   right: 0;
   height: 50px;
@@ -41,7 +42,7 @@ button.scroll_down {
 }
 button.scroll_down:before {
   position: absolute;
-  top: 40px;
+  top: 10px;
   left: 50%;
   content: '';
   width: 6px;
