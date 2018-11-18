@@ -44,8 +44,8 @@ button.scroll_down:before {
   top: 10px;
   left: 50%;
   content: '';
-  width: 6px;
-  height: 6px;
+  width: 10px;
+  height: 20px;
   margin-left: -3px;
   background-color: #FAEBD7;
   border-radius: 100%;
