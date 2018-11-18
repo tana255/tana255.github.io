@@ -24,6 +24,15 @@
 	 text-align:center; 
 	 color:white;
 }
+.wrapper {
+  background: -webkit-linear-gradient(right, #c56f82, #497ccb);
+  background: linear-gradient(270deg, #c56f82, #497ccb);
+  height: 100vh;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
 button.scroll_down {
   position: absolute;
   margin-left: auto;
