@@ -41,11 +41,11 @@ button.scroll_down {
 }
 button.scroll_down:before {
   position: absolute;
-  top: 20px;
+  top: 10px;
   left: 50%;
   content: '';
-  width: 10px;
-  height: 20px;
+  width: 6px;
+  height: 6px;
   margin-left: -3px;
   background-color: #FAEBD7;
   border-radius: 100%;
