@@ -41,7 +41,7 @@ button.scroll_down {
 }
 button.scroll_down:before {
   position: absolute;
-  top: 10px;
+  top: 20px;
   left: 50%;
   content: '';
   width: 10px;
