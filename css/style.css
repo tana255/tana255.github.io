@@ -34,7 +34,7 @@ button.scroll_down {
   width: 30px;
   bottom: 60px;
   background-color: #FAEBD7;
-  border: 2px solid red;
+  border: 2px solid #DC143C;
   border-radius: 20px;
   cursor: pointer;
   outline: none;
