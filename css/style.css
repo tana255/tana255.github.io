@@ -112,6 +112,7 @@ button.scroll_down:before {
 .col-md-4 a:hover{
 	color: 	#F0F8FF;
 	box-shadow: inset 0 0 0 23px #3F51B5;
+}	
 .method1{
 	list-style:none; 
 	margin:15px; 
